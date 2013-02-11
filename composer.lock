@@ -1,5 +1,5 @@
 {
-    "hash": "d463b6dc6bcf2f3cf0cdad97f1b7a201",
+    "hash": "858c8b01048f1b3a775bfb7bc96cd059",
     "packages": [
         {
             "name": "guzzle/guzzle",
@@ -7,12 +7,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle",
-                "reference": "894ef554227c830e07fb383a2402fc69dc0accb1"
+                "reference": "a8dc1189aa7dfc50a338f052781d13aaed4bcfd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/894ef554227c830e07fb383a2402fc69dc0accb1",
-                "reference": "894ef554227c830e07fb383a2402fc69dc0accb1",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/a8dc1189aa7dfc50a338f052781d13aaed4bcfd1",
+                "reference": "a8dc1189aa7dfc50a338f052781d13aaed4bcfd1",
                 "shasum": ""
             },
             "require": {
@@ -59,7 +59,7 @@
                 "zend/zend-cache": "2.0.0beta3",
                 "zend/zend-log": "2.0.0beta3"
             },
-            "time": "2013-02-08 18:54:08",
+            "time": "2013-02-10 23:16:48",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -105,12 +105,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog",
-                "reference": "957ee8d0d62fad0c336797f0fb1ffa63ae6d6c71"
+                "reference": "20c831ef6a038d65009ca98e57c1c7aad80aedcc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/957ee8d0d62fad0c336797f0fb1ffa63ae6d6c71",
-                "reference": "957ee8d0d62fad0c336797f0fb1ffa63ae6d6c71",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/20c831ef6a038d65009ca98e57c1c7aad80aedcc",
+                "reference": "20c831ef6a038d65009ca98e57c1c7aad80aedcc",
                 "shasum": ""
             },
             "require": {
@@ -129,7 +129,7 @@
                 "doctrine/couchdb": "Allow sending log messages to a CouchDB server",
                 "raven/raven": "Allow sending log messages to a Sentry server"
             },
-            "time": "2013-01-22 15:02:20",
+            "time": "2013-02-10 22:19:11",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -206,12 +206,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/EventDispatcher",
-                "reference": "v2.2.0-RC1"
+                "reference": "v2.2.0-BETA2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/EventDispatcher/zipball/v2.2.0-RC1",
-                "reference": "v2.2.0-RC1",
+                "url": "https://api.github.com/repos/symfony/EventDispatcher/zipball/v2.2.0-BETA2",
+                "reference": "v2.2.0-BETA2",
                 "shasum": ""
             },
             "require": {

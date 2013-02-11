@@ -1,5 +1,6 @@
 {
   "name": "truss/truss",
+  "type": "library",
   "description": "PHP web application framework",
   "license": "BSD-2-Clause",
   "require": {
@@ -12,10 +13,13 @@
     "guzzle/guzzle":"dev-master",
     "monolog/monolog": "1.4.*@dev"
   },
-  "minimum-stability": "dev",
   "autoload": {
-    "psr-0": {
-      "Truss": "src/"
-    }
-  }
+      "psr-0": { "Truss": "src/" }
+  },
+  "minimum-stability": "dev",
+  "extra": {
+      "branch-alias": {
+        "dev-master": "0.1.0-dev"
+      }
+  }  
 }

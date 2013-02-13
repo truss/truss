@@ -1,5 +1,5 @@
 {
-    "hash": "858c8b01048f1b3a775bfb7bc96cd059",
+    "hash": "94d64c4068311a8518a97f5f0381de40",
     "packages": [
         {
             "name": "guzzle/guzzle",
@@ -7,12 +7,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle",
-                "reference": "a8dc1189aa7dfc50a338f052781d13aaed4bcfd1"
+                "reference": "e612fe1ff79936b87e4564c23098eb4a41ad9316"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/a8dc1189aa7dfc50a338f052781d13aaed4bcfd1",
-                "reference": "a8dc1189aa7dfc50a338f052781d13aaed4bcfd1",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/e612fe1ff79936b87e4564c23098eb4a41ad9316",
+                "reference": "e612fe1ff79936b87e4564c23098eb4a41ad9316",
                 "shasum": ""
             },
             "require": {
@@ -59,7 +59,7 @@
                 "zend/zend-cache": "2.0.0beta3",
                 "zend/zend-log": "2.0.0beta3"
             },
-            "time": "2013-02-10 23:16:48",
+            "time": "2013-02-11 04:28:35",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -105,12 +105,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog",
-                "reference": "20c831ef6a038d65009ca98e57c1c7aad80aedcc"
+                "reference": "9dc4ffc071725c22fc5aea9755d4ca7ea06f5de0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/20c831ef6a038d65009ca98e57c1c7aad80aedcc",
-                "reference": "20c831ef6a038d65009ca98e57c1c7aad80aedcc",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/9dc4ffc071725c22fc5aea9755d4ca7ea06f5de0",
+                "reference": "9dc4ffc071725c22fc5aea9755d4ca7ea06f5de0",
                 "shasum": ""
             },
             "require": {
@@ -129,7 +129,7 @@
                 "doctrine/couchdb": "Allow sending log messages to a CouchDB server",
                 "raven/raven": "Allow sending log messages to a Sentry server"
             },
-            "time": "2013-02-10 22:19:11",
+            "time": "2013-02-11 10:28:59",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -206,25 +206,25 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/EventDispatcher",
-                "reference": "v2.2.0-BETA2"
+                "reference": "v2.2.0-RC2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/EventDispatcher/zipball/v2.2.0-BETA2",
-                "reference": "v2.2.0-BETA2",
+                "url": "https://api.github.com/repos/symfony/EventDispatcher/zipball/v2.2.0-RC2",
+                "reference": "v2.2.0-RC2",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
             "require-dev": {
-                "symfony/dependency-injection": "2.2.*"
+                "symfony/dependency-injection": ">=2.0,<3.0"
             },
             "suggest": {
                 "symfony/dependency-injection": "2.2.*",
                 "symfony/http-kernel": "2.2.*"
             },
-            "time": "2013-01-17 15:25:59",
+            "time": "2013-02-11 11:26:43",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -260,18 +260,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/HttpFoundation",
-                "reference": "b36ec5ddf23a0a091ecffe3fbdf088f41cb06b00"
+                "reference": "v2.2.0-RC2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/HttpFoundation/zipball/b36ec5ddf23a0a091ecffe3fbdf088f41cb06b00",
-                "reference": "b36ec5ddf23a0a091ecffe3fbdf088f41cb06b00",
+                "url": "https://api.github.com/repos/symfony/HttpFoundation/zipball/v2.2.0-RC2",
+                "reference": "v2.2.0-RC2",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
-            "time": "2013-02-09 15:41:39",
+            "time": "2013-02-11 12:46:49",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -310,30 +310,30 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/HttpKernel",
-                "reference": "429c5298f33e95097f2ffc5d080898f5e9c73f14"
+                "reference": "c58c0389b13783254005923dbd130e2c20c587b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/HttpKernel/zipball/429c5298f33e95097f2ffc5d080898f5e9c73f14",
-                "reference": "429c5298f33e95097f2ffc5d080898f5e9c73f14",
+                "url": "https://api.github.com/repos/symfony/HttpKernel/zipball/c58c0389b13783254005923dbd130e2c20c587b2",
+                "reference": "c58c0389b13783254005923dbd130e2c20c587b2",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3",
-                "symfony/event-dispatcher": "2.2.*",
-                "symfony/http-foundation": "2.2.*",
-                "psr/log": ">=1.0,<2.0"
+                "psr/log": ">=1.0,<2.0",
+                "symfony/event-dispatcher": ">=2.1,<3.0",
+                "symfony/http-foundation": ">=2.2,<2.3-dev"
             },
             "require-dev": {
-                "symfony/config": "2.2.*",
-                "symfony/dependency-injection": "2.2.*",
-                "symfony/stopwatch": "2.2.*",
                 "symfony/browser-kit": "2.2.*",
-                "symfony/class-loader": "2.2.*",
                 "symfony/console": "2.2.*",
-                "symfony/finder": "2.2.*",
-                "symfony/process": "2.2.*",
-                "symfony/routing": "2.2.*"
+                "symfony/class-loader": ">=2.1,<3.0",
+                "symfony/config": ">=2.0,<3.0",
+                "symfony/dependency-injection": ">=2.0,<3.0",
+                "symfony/finder": ">=2.0,<3.0",
+                "symfony/process": ">=2.0,<3.0",
+                "symfony/routing": ">=2.2,<2.3-dev",
+                "symfony/stopwatch": ">=2.2,<2.3-dev"
             },
             "suggest": {
                 "symfony/browser-kit": "2.2.*",
@@ -343,7 +343,7 @@
                 "symfony/dependency-injection": "2.2.*",
                 "symfony/finder": "2.2.*"
             },
-            "time": "2013-02-08 16:10:00",
+            "time": "2013-02-11 15:24:43",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -379,30 +379,29 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Routing",
-                "reference": "a18edb8179a20ecc47bbd31de54b3c362ce94fdb"
+                "reference": "v2.2.0-RC2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Routing/zipball/a18edb8179a20ecc47bbd31de54b3c362ce94fdb",
-                "reference": "a18edb8179a20ecc47bbd31de54b3c362ce94fdb",
+                "url": "https://api.github.com/repos/symfony/Routing/zipball/v2.2.0-RC2",
+                "reference": "v2.2.0-RC2",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
             "require-dev": {
-                "symfony/config": "2.2.*",
-                "symfony/yaml": "2.2.*",
-                "symfony/http-kernel": "2.2.*",
                 "psr/log": ">=1.0,<2.0",
-                "doctrine/common": ">=2.2,<3.0"
+                "doctrine/common": ">=2.2,<3.0",
+                "symfony/config": ">=2.2,<2.3-dev",
+                "symfony/yaml": ">=2.0,<3.0"
             },
             "suggest": {
                 "symfony/config": "2.2.*",
                 "symfony/yaml": "2.2.*",
                 "doctrine/common": "~2.2"
             },
-            "time": "2013-02-07 22:44:42",
+            "time": "2013-02-11 11:24:47",
             "type": "library",
             "extra": {
                 "branch-alias": {
